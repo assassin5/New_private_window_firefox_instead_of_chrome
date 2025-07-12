@@ -1,5 +1,7 @@
 Made by Asza 12/07/2025 version 1.0.
 Used for Autohotkey 2.0.
+There is an even better way to achive the same using Firefox autoconfig (no Autohotkey) if you don't already use startup scripts.
+See https://github.com/JoBuettner/firefox-autoconfig-customizations
 =========================================================
 
 The script changes CTRL+SHIFT+N to CTRL+SHIFT+P
